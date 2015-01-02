@@ -1,5 +1,5 @@
 #surefire
-#Fri Jan 02 14:17:10 CST 2015
+#Fri Jan 02 15:21:14 CST 2015
 testClassesDirectory=C\:\\Users\\saif\\workspace\\mavenJenkinsTest\\target\\test-classes
 useManifestOnlyJar=true
 classPathUrl.1=C\:\\Users\\saif\\workspace\\mavenJenkinsTest\\target\\classes
