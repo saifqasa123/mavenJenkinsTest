@@ -4,7 +4,7 @@
   <artifactId>mavenJenkinsTest</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>mavenJenkinsTest</name>
+  <name>mavenJenkinsTest1</name>
 </project>
 
 <url>http://maven.apache.org</url>
